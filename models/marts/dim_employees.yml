@@ -1,6 +1,6 @@
 models:
   - name: dim_employees
-    description: Tabela dimensão para tabela employees, com senioridade 
+    description: Tabela dimensão para tabela employees, com senioridade.
     columns:
       - name: employee_pk
         description: Unique identifier for each employee.
